@@ -1,5 +1,7 @@
 ### Hi world, I'm David 👋
 
+I'm a game developer from Montreal, Canada.
+
 <!--
 **dbaron-gamedev/dbaron-gamedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
