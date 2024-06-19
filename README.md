@@ -1,4 +1,4 @@
-I enjoy playing games and making them.
+I enjoy making and playing games.
 
 <!--
 **dbaron-gamedev/dbaron-gamedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
